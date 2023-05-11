@@ -20,8 +20,9 @@
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 
+![aws](https://github.com/sagar-kennect/sagar-kennect/assets/130971894/93f73d3a-e549-437c-82fd-26210535fb48)
 
-![Uploading aws.gif…]()
+
 
 ![docker-loading](https://github.com/sagar-kennect/sagar-kennect/assets/130971894/44c0b7ec-882f-4dbf-bc72-840edf19e084)
 
